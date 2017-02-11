@@ -1,0 +1,21 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.14",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Rolling",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"TargetPlatforms": [
+		"PS4",
+		"WindowsNoEditor",
+		"XboxOne"
+	]
+}
